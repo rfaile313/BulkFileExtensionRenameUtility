@@ -28,11 +28,13 @@ Simply write, paste, or browse for a folder or directory.
 
 ### 📽 MacOS Video
 In this video, I change all of the `.png` files on my MacOS desktop to `.jpg` files. You can see the program doesn't affect any file extensions not specified by the program.
-![MacOS Video Demo](https://d.pr/i/65bP8V+)
+
+- [MacOS Video Demo](https://d.pr/i/65bP8V)
 
 ### 🎥 Windows Video
 In this video, I change all .txt files in a directory to .md files on Windows.
-![Windows Video Demo](https://d.pr/i/Uk1G0T+)
+
+- [Windows Video Demo](https://d.pr/i/Uk1G0T)
 
 ### ❓ Questions? Bugs? 🐛
 
