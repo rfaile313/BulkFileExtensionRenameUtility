@@ -9,6 +9,7 @@ This is a simple, cross platform, single-app utility.
 Choose your platform:
 - Windows: Download and double click the .exe file.
 - MacOS: Download and unzip the .app file, double click the app to run.
+- Linux OR any other platform: run the source file with a Python 🐍 interpreter.
 
 ### ❓ What does it do?
 
